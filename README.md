@@ -12,8 +12,7 @@ This is a simple webpage showcasing **Kolhapur**, a historic city in Maharashtra
 - `VaishnaviPatil.html` - Main webpage file
 - `kolhapur-temple.png` - Image of Mahalaxmi Temple (Optional)
 
-## 🌐 Live Demo (if deployed)
-[Visit the Kolhapur Webpage](https://github.com/Vaishu-0910/Kolhapur-Webpage)
+
 
 
 
