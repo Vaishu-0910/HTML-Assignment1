@@ -13,11 +13,8 @@ This is a simple webpage showcasing **Kolhapur**, a historic city in Maharashtra
 - `kolhapur-temple.png` - Image of Mahalaxmi Temple (Optional)
 
 ## 🌐 Live Demo (if deployed)
-[Visit the Kolhapur Webpage](https://your-username.github.io/kolhapur-website/)
+[Visit the Kolhapur Webpage](https://github.com/Vaishu-0910/Kolhapur-Webpage)
 
-## 📜 How to Run Locally
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-username/kolhapur-website.git
+
 
 
